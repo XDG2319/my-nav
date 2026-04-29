@@ -3,22 +3,10 @@
 一个优雅、快速、易于部署的书签收藏与分享平台，完全基于 Cloudflare 全家桶构建。
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0200239-4b89-4f3f-9d5d-99f731661d7c" alt="拾光集Logo" width="200">
-</p>
-
-<p align="center">
   <a href="https://github.com/XDG2319/my-nav/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/v1.0.35-blue?style=flat" alt="Version"></a>
   <a href="https://github.com/XDG2319/my-nav/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
   <a href="https://sq.hellohub.top"><img src="https://img.shields.io/badge/Demo-在线体验-orange?style=flat" alt="Demo"></a>
 </p>
-
----
-
-## 预览
-
-| 首页 | 后台管理 |
-| :---: | :---: |
-| ![首页预览](https://github.com/user-attachments/assets/b12755c5-7669-408f-be05-2db6ba1b02cc) | ![后台预览](https://github.com/user-attachments/assets/d387794d-95f8-42e9-879d-41fc6c5f5fa8) |
 
 **在线体验**: [https://sq.hellohub.top](https://sq.hellohub.top)
 
