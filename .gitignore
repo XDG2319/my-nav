@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Wrangler
+.wrangler/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright MCP (自动生成的截图和日志)
+.playwright-mcp/
+
+# 项目特定忽略
+*.png
+CLAUDE.md
+.claude/
