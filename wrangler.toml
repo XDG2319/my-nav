@@ -1,0 +1,22 @@
+name = "my-nav"
+main = "work_v2.js"
+compatibility_date = "2024-01-01"
+
+# 静态资源（本地图标库）
+[site]
+bucket = "./public"
+
+# D1 数据库绑定
+[[d1_databases]]
+binding = "NAV_DB"
+database_name = "book"
+database_id = "c101d609-adc7-4617-aab9-246e15ac5f3a"
+
+# KV 存储绑定
+[[kv_namespaces]]
+binding = "NAV_AUTH"
+id = "f9cb1353d2bd4cf1b32de3cb319856a3"
+
+# 环境变量（可选）
+[vars]
+ENABLE_PUBLIC_SUBMISSION = "true"
